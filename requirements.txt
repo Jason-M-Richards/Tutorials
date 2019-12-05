@@ -1,4 +1,4 @@
 pandas
 scikit-learn
-pandas-profiling
 seaborn
+graphviz
